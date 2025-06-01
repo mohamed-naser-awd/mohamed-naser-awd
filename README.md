@@ -7,7 +7,8 @@ I'm a passionate backend engineer with 4+ years of experience building robust, s
 ---
 
 ### 💡 What I'm working on:
-- Search Engine at azcare.ai
+- Search engine at azcare.ai
+- Maintain multi cloud infrastructure using Azure, GCP, AWS and OVH 
 
 ### What I worked on:
 - Building **multi-tenant eCommerce** solutions that scale and integrate seamlessly.
